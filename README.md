@@ -1,4 +1,20 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# BuHub (Social application for students)
+
+<!-- <p align="center">
+    <a href="#" style="display: block;" align="center">
+        <img src="https://upload.wikimedia.org/wikipedia/en/e/ea/Babcock_University_Logo.jpg" alt="Babcock_University_Logo" width="30%" />
+    </a>
+</p> -->
+
+## TodoLisr
+- [x] Install NextJs
+- [x] (Yes) Use TypeScript
+- [x] (No) Don't use ESlint
+- [x] (Yes) Use Tailwind
+- [x] (Yes) Use `src` directory
+- [x] (Yes) Use App Router
+- [x] (No) Do not customize the default import alias 
+<!-- This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
 
@@ -33,4 +49,4 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details. -->
