@@ -6,14 +6,23 @@
     </a>
 </p> -->
 
-## TodoLisr
+## TodoList
+
 - [x] Install NextJs
 - [x] (Yes) Use TypeScript
 - [x] (No) Don't use ESlint
 - [x] (Yes) Use Tailwind
 - [x] (Yes) Use `src` directory
 - [x] (Yes) Use App Router
-- [x] (No) Do not customize the default import alias 
+- [x] (No) Do not customize the default import alias
+
+## Implement Authentication
+
+- [x] Install @clerk/nextjs
+- [x] Set your Clerk API keys Create your .env.local file. These keys can always be retrieved from the API Keys page of your Clerk Dashboard.
+- [x] Add your clerkMiddleware() to your app clerkMiddleware() grants you access to user authentication state throughout your app, on any route or page. It also allows you to protect specific routes from unauthenticated users.
+- [x] Add and Clerk components to your app.
+
 <!-- This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
