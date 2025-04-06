@@ -23,6 +23,11 @@
 - [x] Add your clerkMiddleware() to your app clerkMiddleware() grants you access to user authentication state throughout your app, on any route or page. It also allows you to protect specific routes from unauthenticated users.
 - [x] Add and Clerk components to your app.
 
+## Improve UI with ShadCN
+- [] Complete the installation of Shadcn.
+- [] Use NextJs Framework.
+- [] Add a component (Button).
+- [] Implement Dark mode theme.
 <!-- This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
