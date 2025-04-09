@@ -28,6 +28,11 @@
 - [] Use NextJs Framework.
 - [] Add a component (Button).
 - [] Implement Dark mode theme.
+
+## Create the navbar
+[x] Create navbar for desktop
+[x] Create navbar for mobile
+
 <!-- This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
